@@ -15,7 +15,7 @@ def home(request):
         results = bing.web_search(query, 5, ['Url','Title'])
         # results = [{"Url":'http://google.com','Title':'Google'},
         #            {"Url":'http://yahoo.com','Title':'Yahoo'},
-        #            {"Url":'http://d.hatena.ne.jp/echizen_tm/20140929/1412004395#seemore','Title':'ほいーるだっく'},
+        #
         #            ]
         extractor = ExtractContent()
         # オプション値を指定する
@@ -30,7 +30,7 @@ def home(request):
         extractor.analyse(html)
         text, title = extractor.as_text()
 
-    return render_to_response('home.html',   # 使用するテンプレート
-                              locals(),       # テンプレートに渡すデータ
-                              context_instance=RequestContext(request)) # その他標準のコンテキスト
+    return render_to_response('home.html',
+                              locals(),
+                              context_instance=RequestContext(request))
 

@@ -88,7 +88,6 @@ TEMPLATE_DIRS = (
     os.path.join(BASE_DIR,"static","templates"),
 )
 
-# 静的ファイルを共通で置く
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
 )

@@ -25,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/mysite/urls.py">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -37,7 +37,7 @@
         </entry>
       </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/urls.py">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -48,8 +48,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/base.html">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-36.875" vertical-offset="0" max-vertical-offset="1620">
               <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
@@ -61,7 +71,7 @@
         </entry>
       </file>
       <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/navbar.html">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/navbar.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.125" vertical-offset="444" max-vertical-offset="840">
               <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
@@ -70,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/custom.css">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+            <state vertical-scroll-proportion="0.17401393" vertical-offset="0" max-vertical-offset="431">
               <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
@@ -81,10 +91,10 @@
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/views.py">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="34" column="71" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
               <folding>
                 <element signature="e#0#88#0" expanded="true" />
               </folding>
@@ -92,10 +102,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bing.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/Bing.py">
+      <file leaf-file-name="Bing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/Bing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34642032" vertical-offset="0" max-vertical-offset="1515">
+            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1515">
               <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
@@ -109,23 +119,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/mysite/settings.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/signups/admin.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/signups/form.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/signups/forms.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/signups/models.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/signups/views.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/static/css/custom.css" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/static/functions/BIng.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/search/Bing.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/search/extract_content.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/static/templates/navbar.html" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/search/urls.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/search/dict_automata.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/static/templates/base.html" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/mysite/urls.py" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/static/templates/home.html" />
-        <option value="$USER_HOME$/Documents/Program/python/django/mysecondsite/search/views.py" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/signups/admin.py" />
+        <option value="$PROJECT_DIR$/signups/form.py" />
+        <option value="$PROJECT_DIR$/signups/forms.py" />
+        <option value="$PROJECT_DIR$/signups/models.py" />
+        <option value="$PROJECT_DIR$/signups/views.py" />
+        <option value="$PROJECT_DIR$/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/static/functions/BIng.py" />
+        <option value="$PROJECT_DIR$/search/Bing.py" />
+        <option value="$PROJECT_DIR$/search/extract_content.py" />
+        <option value="$PROJECT_DIR$/static/templates/navbar.html" />
+        <option value="$PROJECT_DIR$/search/urls.py" />
+        <option value="$PROJECT_DIR$/search/dict_automata.py" />
+        <option value="$PROJECT_DIR$/static/templates/base.html" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/static/templates/home.html" />
+        <option value="$PROJECT_DIR$/search/views.py" />
+        <option value="$PROJECT_DIR$/../myfirstdjango/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/../myfirstdjango/search/views.py" />
       </list>
     </option>
   </component>
@@ -160,6 +172,12 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfirstdjango" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="myfirstdjango" />
@@ -235,7 +253,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Program/python/django/mybook" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybook" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -387,15 +405,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1276" height="777" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896653" sideWeight="0.5003984" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329927" sideWeight="0.5003984" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896653" sideWeight="0.4996016" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329927" sideWeight="0.4996016" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -431,7 +449,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/mysite/urls.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="255">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
@@ -441,7 +459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/urls.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="255">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -451,7 +469,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1620">
           <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
@@ -461,7 +479,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/navbar.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="840">
           <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
@@ -469,7 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
@@ -477,7 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/views.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="199" max-vertical-offset="630">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -487,7 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
@@ -495,7 +513,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/extract_content.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/extract_content.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4140">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -505,7 +523,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/Bing.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/Bing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="1515">
           <caret line="95" column="40" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
@@ -515,7 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/mysite/urls.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="255">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
@@ -525,7 +543,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/urls.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="255">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -535,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1620">
           <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
@@ -545,7 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/navbar.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="840">
           <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
@@ -553,7 +571,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
@@ -561,7 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/views.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="199" max-vertical-offset="630">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -571,7 +589,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
@@ -579,7 +597,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/extract_content.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/extract_content.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4140">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -589,7 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/Bing.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/Bing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="1515">
           <caret line="95" column="40" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
@@ -599,98 +617,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/mysite/views.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="431">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/mysite/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="431">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/models.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/jumbotron.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/jumbotron.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="431">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/bootstrap-responsive.min.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/bootstrap-responsive.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.6507177" vertical-offset="690" max-vertical-offset="92595">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/bootstrap-responsive.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/bootstrap-responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16725">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28708133" vertical-offset="0" max-vertical-offset="418">
           <caret line="8" column="2947" selection-start-line="8" selection-start-column="2947" selection-end-line="8" selection-end-column="2947" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0510441" vertical-offset="828" max-vertical-offset="1485">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/signups/views.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/signups/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27842227" vertical-offset="0" max-vertical-offset="431">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/signups/models.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/signups/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13921113" vertical-offset="0" max-vertical-offset="431">
           <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/signups/forms.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/signups/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2088167" vertical-offset="0" max-vertical-offset="431">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/signups/admin.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/signups/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -704,14 +715,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/dict_automata.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/dict_automata.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="2310">
           <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14669926" vertical-offset="15" max-vertical-offset="630">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
@@ -719,7 +730,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/extract_content.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/extract_content.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="8.833718" vertical-offset="0" max-vertical-offset="4140">
           <caret line="255" column="0" selection-start-line="255" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
@@ -729,15 +740,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/Bing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1515">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/navbar.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.125" vertical-offset="444" max-vertical-offset="840">
           <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
@@ -745,27 +758,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/mysite/urls.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/static/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-36.875" vertical-offset="0" max-vertical-offset="1620">
           <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
@@ -775,23 +778,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/views.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="199" max-vertical-offset="630">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/search/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="34" column="71" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
           <folding>
             <element signature="e#0#88#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Program/python/django/myfirstdjango/search/Bing.py">
+    <entry file="file://$PROJECT_DIR$/../myfirstdjango/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34642032" vertical-offset="0" max-vertical-offset="1515">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.17401393" vertical-offset="0" max-vertical-offset="431">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
