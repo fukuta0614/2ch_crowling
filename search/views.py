@@ -18,7 +18,7 @@ def home(request):
         #
         #            ]
         extractor = ExtractContent()
-        # オプション値を指定する
+
         opt = {"threshold":50}
         extractor.set_option(opt)
         print('hello world')
@@ -26,8 +26,8 @@ def home(request):
         url = results[0]["Url"]
         resp=requests.get(url)
         html=resp.text
-
-        # html = open("yono python-extractcontent.html").read() # 解析対象HTML
+        number = 3 / 2
+        # html = open("yono python-extractcontent.html").read()
         extractor.analyse(html)
         text, title = extractor.as_text()
 
