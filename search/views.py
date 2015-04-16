@@ -21,6 +21,7 @@ def home(request):
         # オプション値を指定する
         opt = {"threshold":50}
         extractor.set_option(opt)
+        print('hello world')
 
         url = results[0]["Url"]
         resp=requests.get(url)
