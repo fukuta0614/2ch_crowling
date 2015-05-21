@@ -31,7 +31,7 @@ def home(request):
         extractor.analyse(html)
         text, title = extractor.as_text()
 
-    return render_to_response('home.html',
+    return render_to_response('search.html',
                               locals(),
                               context_instance=RequestContext(request))
 
