@@ -254,7 +254,6 @@ class ExtractContent(object):
 
 if __name__ == "__main__":
     extractor = ExtractContent()
-    # オプション値を指定する
     opt = {"threshold":50}
     extractor.set_option(opt)
 
@@ -262,7 +261,7 @@ if __name__ == "__main__":
     resp=requests.get(url)
     html=resp.text
 
-    # html = open("yono python-extractcontent.html").read() # 解析対象HTML
+    # html = open("yono python-extractcontent.html").read()
     extractor.analyse(html)
     text, title = extractor.as_text()
     print("title : " + title)
