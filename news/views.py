@@ -5,6 +5,7 @@ from django.views.decorators.csrf import csrf_exempt
 from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
 from news.serializers import NewsSerializer
+from pymongo import MongoClient
 
 class JSONResponse(HttpResponse):
     """
@@ -16,10 +17,19 @@ class JSONResponse(HttpResponse):
         super(JSONResponse, self).__init__(content, **kwargs)
 
 def home(request):
-    news = News.objects.all()
+    # news = News.objects.all()
+    init_mongo('fc2_movie','movies')
+    movies = collect.find()[1200:1300]
     return render_to_response('home.html',
                               locals(),
                               context_instance=RequestContext(request))
+
+def init_mongo(database,collection):
+    connect = MongoClient('localhost', 27017)#, max_pool_size=None)
+    db = connect[database]
+    global collect
+    # collect = db.movie_list
+    collect = db[collection]
 
 @csrf_exempt
 def news_list(request):

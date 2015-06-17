@@ -3,7 +3,7 @@
 
 {% block content %}
     <div class="container">
-        <h1>news_list!</h1>
+        <h1>movies!</h1>
           <!--<form method="post" action="">-->
               <!--<br/>-->
               <!--{% csrf_token %}-->
@@ -29,11 +29,18 @@
             </tr>
           </thead>
           <tbody>
-            {% for page in news %}
+            <!--{% for page in news %}-->
+                <!--<tr>-->
+                    <!--<th scope="row">{{ forloop.counter }}</th>-->
+                    <!--<td>{{ page.base_site}}</td>-->
+                    <!--<td><a href="{{page.url}}" target="_blank">{{page.url}}</a></td>-->
+                <!--</tr>-->
+            <!--{% endfor %}-->
+          {% for movie in movies %}
                 <tr>
                     <th scope="row">{{ forloop.counter }}</th>
-                    <td>{{ page.base_site}}</td>
-                    <td><a href="{{page.url}}" target="_blank">{{page.url}}</a></td>
+                    <td>{{ movie.title}}</td>
+                    <td><a href="{{movie.url}}" target="_blank">{{movie.url}}</a></td>
                 </tr>
             {% endfor %}
           </tbody>
